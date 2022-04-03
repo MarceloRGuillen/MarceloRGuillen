@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarceloRGuillen
+- 👀 I’m interested in learning more about C#, SQL, coding in general.
+- 🌱 I’m currently learning C# and SQL.
+- 💞️ I’m looking to collaborate on software in a professional setting.
+- 📫 How to reach me: mguillen10@knights.ucf.edu
