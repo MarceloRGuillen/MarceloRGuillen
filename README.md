@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarceloRGuillen
-- 👀 I’m interested in learning more about web development & software engineering.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript through the Odin Project.
+- 👀 I’m interested in learning more about software engineering.
+- 🌱 I’m currently learning Java through mooc.fi's Java Programming I and II courses.
 - 💞️ I’m looking to collaborate on software in a professional setting.
 - 📫 How to reach me: mguillen10@knights.ucf.edu
